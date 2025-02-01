@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1,PT ★ AXN FHD
+http://panderad.com:80/J55H88A8/IIJO1L/521583
+#EXTINF:-1,PT ★ AXN Movies FHD
+http://panderad.com:80/J55H88A8/IIJO1L/521585
+#EXTINF:-1, PT AXN MOVIES HD Backup NO_1 alliptvlinks.com
+http://tv14s.xyz:8080/753468/894568/164818?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Portugal", PT AXN MOVIES HD Backup NO_2 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/164818?checkedby:alliptvlinks.com
+#EXTINF:-1, PT: AXN MOVIES HD Backup NO_3 alliptvlinks.com
+http://cord-cutter.net:8080/zcJ8BG/214917/164818?checkedby:alliptvlinks.com
+#EXTINF:-1,PT ★ CINEMUNDO HD
+http://panderad.com:80/J55H88A8/IIJO1L/3192
+#EXTINF:-1,PT ★ AMC HD
+http://panderad.com:80/J55H88A8/IIJO1L/3050
+#EXTINF:-1,PT ★ NOS STUDIOS HD
+http://panderad.com:80/J55H88A8/IIJO1L/3193
+#EXTINF:-1, PT NOS STUDIOS FHD Backup NO_1 alliptvlinks.com
+http://cord-cutter.net:8080/X5xRz0/944877/164811?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Portugal", PT: NOS STUDIOS FHD Backup NO_2 alliptvlinks.com
+http://618545651815961332.ofdp1112.xyz:80/play/te817470/4r4VxsCg4h/961332.ts?checkedby:alliptvlinks.com
+#EXTINF:-1, PT NOS STUDIOS FHD Backup NO_3 alliptvlinks.com
+http://tv14s.xyz:8080/753468/894568/164811?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Portugal", PT NOS STUDIOS FHD Backup NO_4 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/164811?checkedby:alliptvlinks.com
+#EXTINF:-1,PT ★ TVCINE TOP HD
+http://panderad.com:80/J55H88A8/IIJO1L/3185
+#EXTINF:-1,PT ★ TVCINE EDITION HD
+http://panderad.com:80/J55H88A8/IIJO1L/3186
+#EXTINF:-1,PT ★ TVCINE EMOTION HD
+http://panderad.com:80/J55H88A8/IIJO1L/3187
+#EXTINF:-1, PT TV CINE ACTION FHD
+http://panderad.com:80/J55H88A8/IIJO1L/3188
+#EXTINF:-1, PT TV CINE ACTION FHD Backup NO_1
+http://tvmate.icu:8080/vNay0H/219352/164809
+#EXTINF:-1, PT TV CINE ACTION FHD Backup NO_2
+http://tv14s.xyz:8080/753468/894568/164809
+#EXTINF:-1, PT TV CINE ACTION FHD Backup NO_3
+http://cord-cutter.net:8080/k4Svp2/645504/164809
+#EXTINF:-1 tvg-id="RTP1.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP África (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPiAsia.pt",RTP Internacional Asia (480p)
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Madeira (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Memória (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt",SIC (1080p)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt",TVI Reality (720p) [Not 24/7]
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI1IDEyOjI1OjM4IEFNJmhhc2hfdmFsdWU9V25OdncrZjhlSCtTRk02Q0hvWE9idz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE2OGYwNzVmLTFhNjMtNDIzNi1iMDIzLTQ2MDI3NGQzMDg3NA==/
+#EXTINF:-1 tvg-id="GLOBO.br" tvg-name="Globo RIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",Globo RIO
+https://xyzdddd.mizhls.ru/lb/premium761/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="Globo.SP.HD.br" tvg-name="Globo SP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",Globo SP
+https://xyzdddd.mizhls.ru/lb/premium760/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1,PT ★ SPORT TV+ HD
+http://panderad.com:80/J55H88A8/IIJO1L/3098
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="Sport TV1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" group-title="Portugal",Sport TV1
+https://xyzdddd.mizhls.ru/lb/premium49/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1,Sport TV1 BACKUP_1
+http://panderad.com:80/J55H88A8/IIJO1L/1010681
+#EXTINF:-1,Sport TV1 BACKUP_2
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/167742?checkedby:alliptvlinks.com
+#EXTINF:-1,Sport TV1 BACKUP_3
+http://tv14s.xyz:8080/753468/894568/167742?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="Sport TV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="Portugal",Sport TV2
+https://xyzdddd.mizhls.ru/lb/premium74/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1,Sport TV2 BACKUP_1
+http://panderad.com:80/J55H88A8/IIJO1L/521723
+#EXTINF:-1,Sport TV2 BACKUP_2
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/167743?checkedby:alliptvlinks.com
+#EXTINF:-1,Sport TV2 BACKUP_3
+http://tvmate.icu:8080/vNay0H/219352/167743
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="Sport TV3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="Portugal",Sport TV3
+https://xyzdddd.mizhls.ru/lb/premium454/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1,Sport TV3 BACKUP_1
+http://panderad.com:80/J55H88A8/IIJO1L/3101
+#EXTINF:-1,Sport TV3 BACKUP_2
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/167744?checkedby:alliptvlinks.com
+#EXTINF:-1,Sport TV3 BACKUP_3
+http://tv14s.xyz:8080/753468/894568/167744?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="Sport TV4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="Portugal",Sport TV4
+https://xyzdddd.mizhls.ru/lb/premium289/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1,Sport TV4 BACKUP_1
+http://panderad.com:80/J55H88A8/IIJO1L/521725
+#EXTINF:-1,Sport TV4 BACKUP_2
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/167745?checkedby:alliptvlinks.com
+#EXTINF:-1,Sport TV4 BACKUP_3
+http://cord-cutter.net:8080/25464931/30585186/167745?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="Sport TV5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="Portugal",Sport TV5
+https://xyzdddd.mizhls.ru/lb/premium290/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1,Sport TV5 BACKUP_1
+http://panderad.com:80/J55H88A8/IIJO1L/521727
+#EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="Sport TV6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-6-pt.png" group-title="Portugal",Sport TV6
+https://xyzdddd.mizhls.ru/lb/premium291/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1,Sport TV6 BACKUP_1
+http://panderad.com:80/J55H88A8/IIJO1L/521729
+#EXTINF:-1 tvg-id="SPORTINGTV(src01).pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sporting-tv-pt.png" group-title="Portugal",Sporting TV
+https://xyzdddd.mizhls.ru/lb/premium716/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="Benfica TV" tvg-logo="https://i.imgur.com/RqPUALn.png" group-title="Portugal",Benfica TV
+https://xyzdddd.mizhls.ru/lb/premium380/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="Benfica TV BACKUP_1" tvg-logo="https://i.imgur.com/RqPUALn.png" group-title="Portugal",Benfica TV
+http://cord-cutter.net:8080/zcJ8BG/214917/136726?checkedby:alliptvlinks.com
+#EXTINF:-1,PT ★ FOX HD
+http://panderad.com:80/J55H88A8/IIJO1L/3179
+#EXTINF:-1,PT ★ FOX COMEDY HD
+http://panderad.com:80/J55H88A8/IIJO1L/3180
+#EXTINF:-1,PT ★ FOX CRIME HD
+http://panderad.com:80/J55H88A8/IIJO1L/3181
+#EXTINF:-1,PT ★ FOX LIFE HD
+http://panderad.com:80/J55H88A8/IIJO1L/3182
+#EXTINF:-1,PT ★ FOX MOVIES HD
+http://panderad.com:80/J55H88A8/IIJO1L/3183
+#EXTINF:-1,PT ★ AXN White FHD
+http://panderad.com:80/J55H88A8/IIJO1L/521587
+#EXTINF:-1,PT ★ AXN WHITE HD
+http://panderad.com:80/J55H88A8/IIJO1L/3190
+#EXTINF:-1,PT ★ HOLLYWOOD HD
+http://panderad.com:80/J55H88A8/IIJO1L/3194
+#EXTINF:-1,PT ★ Star Life HD
+http://panderad.com:80/J55H88A8/IIJO1L/521747
+#EXTINF:-1,PT ★ Star Life FHD
+http://panderad.com:80/J55H88A8/IIJO1L/521745
+#EXTINF:-1,PT ★ STAR Crime FHD
+http://panderad.com:80/J55H88A8/IIJO1L/521741
+#EXTINF:-1,PT ★ STAR Crime HD
+http://panderad.com:80/J55H88A8/IIJO1L/521743
+#EXTINF:-1,PT ★ STAR Comedy HD
+http://panderad.com:80/J55H88A8/IIJO1L/521739
+#EXTINF:-1,PT ★ STAR Comedy
+http://panderad.com:80/J55H88A8/IIJO1L/521737
+#EXTINF:-1,PT ★ STAR Channel FHD
+http://panderad.com:80/J55H88A8/IIJO1L/521733
+#EXTINF:-1,PT ★ STAR Channel HD
+http://panderad.com:80/J55H88A8/IIJO1L/521735
+#EXTINF:-1,PT ★ STAR Movies HD
+http://panderad.com:80/J55H88A8/IIJO1L/521751
+#EXTINF:-1,PT ★ STAR Movies
+http://panderad.com:80/J55H88A8/IIJO1L/521749
